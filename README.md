@@ -1,4 +1,3 @@
-testing
-=======
+# Testing Area
 
-a repo for testing github with different IDE/languages
+This repo is used as a test area for different technologies, lenguages, libraries
